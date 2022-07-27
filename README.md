@@ -23,7 +23,7 @@ This project was made for the purpose of developing mobile test automation using
 * Hepsiburada App -> https://apkcombo.com/tr/hepsiburada-online-shopping/com.pozitron.hepsiburada/download/phone-5.4.0-apk
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](C:\Users\baris\IdeaProjects\Android-Appium-Cucumber\src\screenshots\hepsiburada_testcase1_mobileautomation_cucumber_passed.png)
+![Uygulama Ekran Görüntüsü](https://github.com/barist334/Hepsiburada-TestCase1-MobileAutomation-Cucumber/blob/master/src/screenshots/hepsiburada_testcase1_mobileautomation_cucumber_passedd.png?raw=true)
 
 ## Badges
 
